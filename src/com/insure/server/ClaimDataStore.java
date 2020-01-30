@@ -29,7 +29,7 @@ public class ClaimDataStore {
 
         return claim.getID();
     }
-
+//
     //retreives claim
  //   public Claim getClaim(int claimID){
 //
